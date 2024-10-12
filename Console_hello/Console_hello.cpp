@@ -16,7 +16,7 @@ int main()
         std::cout << "請輸入運算子: ";
         std::cin >> x >> oper >> y;
         result = c.Calculate(x, oper, y);
-        std::cout << "結果: " << result << std::endl;
+        std::cout << "= " << result << std::endl;
         std::cout << "是否繼續(y/n): ";
         std::cin >> ch;
         if (ch != 'y') break;
