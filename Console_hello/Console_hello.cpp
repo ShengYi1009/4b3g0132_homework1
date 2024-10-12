@@ -1,5 +1,4 @@
-﻿// Console_hello.cpp : 此檔案包含 'main' 函式。程式會於該處開始執行及結束執行。
-//
+﻿// 4B3G0132 徐勝益 乘法N*N 程式作業。
 
 #include <iostream>
 
